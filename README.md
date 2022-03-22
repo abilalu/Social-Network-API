@@ -34,3 +34,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
   * Includes schema settings for User and Thought models as outlined in the homework instructions.
 
   * Includes Reactions as the `reaction` field's subdocument schema in the Thought model.
+
+## Walkthrough Video
+ A walkthrough video for how this wowrks on Insomnia is attached : https://drive.google.com/file/d/1G8hLlNK79lJfku2a6WgYCPqkHOG9T01E/view
